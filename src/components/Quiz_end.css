@@ -1,0 +1,25 @@
+.endpage{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn{
+    margin:6rem;
+    border:none;
+    border-radius: 50px;
+    width:200px;
+    padding: 12px 12px;
+    text-decoration: none;
+    color: #1abc9c;
+    background-color: #ffffff;
+    transition: 0.3s;
+    font-size: 1em;
+    cursor: pointer;
+    outline: none;
+  }
+  .btn:hover {
+    border:2px solid white;
+    color: white;
+    background-color:#1abc9c;
+  }
+  
